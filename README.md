@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeff1999git
 - 👀 I’m interested in git
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning to code
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
