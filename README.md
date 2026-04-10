@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Jeff
-- 👀 I’m interested in git
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on developers
-- 📫 Reach me at jeffinmjtcr@gmail.com
+## 👋 Hi, I'm Jeff
 
-<!---
-Jeff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer passionate about building scalable web and mobile applications.
+
+- 🚀 Skilled in React, React Native, Node.js, MongoDB
+- ⚡ Focused on MVP development and fast product launches
+- 🧠 Strong interest in system design and clean architecture
+- 📦 Experienced in deploying apps using Vercel
+
+I enjoy turning ideas into real, working products that solve problems.
